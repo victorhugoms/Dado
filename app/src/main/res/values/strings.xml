@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dado</string>
+    <string name="inicio">Role o Dado</string>
+    <string name="numero_3">Sorteou o numero 3</string>
+    <string name="numero_2">Sorteou o numero 2</string>
+    <string name="numero_1">Sorteou o numero 1</string>
+    <string name="numero_4">Sorteou o numero 4</string>
+    <string name="numero_5">Sorteou o numero 5</string>
+    <string name="numero_6">Sorteou o numero 6</string>
+</resources>
